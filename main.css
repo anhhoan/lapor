@@ -564,6 +564,9 @@
         background-color:#F5F5F5;
         width: 100%;
     }
+    .mobile{
+        display: block;
+    }
     .tablet-body {
         display: none;
     }
