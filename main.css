@@ -650,7 +650,75 @@
     .seemore{
         width: 40%;
         margin-left: 30%;
-        margin-top: 15%;
+        margin-top: 10%;
     }
-
+    .mobile-footer{
+        background-color: #04494A;
+        margin-top: 20%;
+        width: 100%;
+    }
+    .last-logoM{
+        width: 40%;
+        margin-left: 30%;
+        margin-top: 4%;
+    }
+    .icon-mobile{
+        display: flex;
+        margin-top: 10%;
+        width: 40%;
+        margin-left: 30%;
+    }
+    .input_1-mobile {
+       width: 90%;
+       margin: 0 auto;
+       margin-top:10% ;
+    }
+    .input_1-mobile input{
+        width: 100%;
+        padding: 2% 0;
+        background-color: #CAC5C6;
+    }
+    
+    
+    .subcribe-mobile button {
+        width: 100%;
+        padding: 2%;
+        margin-top: 3%;
+    }
+    
+    .type-mobile {
+        width: 100%;
+        
+       
+    }
+    .list-footer {
+        display: block;
+        color: white;
+        text-align: center;
+        font-family: "Raleway";
+        font-weight: 500;
+        font-size: 12px;
+        text-transform: uppercase;
+        margin-top: 60px;
+        line-height: 35px;
+    }
+    .borderM{
+        border: 0.5px solid  white;
+        width: 90%;
+        margin: 0 auto  ;
+        margin-top: 8%;
+        background-color: white;
+    }
+    .last-title{
+        display: none;
+    }
+    #thelastM{
+        font-size: 12px;
+        color: white;
+        width: 100%;
+        text-align: center;
+        font-weight: 500;
+        font-family: "Raleway";
+        margin-top: 4%;
+    }
 }
